@@ -1,4 +1,4 @@
-# Deniz
+# Gizdusum
 
 Based in Turkey. Web3-curious developer focused on shipping, learning fast, and contributing to ecosystems I care about.
 

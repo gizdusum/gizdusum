@@ -8,10 +8,22 @@ I work across early networks where product, protocol, and community are still fo
 
 | Area | Work |
 | --- | --- |
-| **Monad** | Validator identity, testnet participation, community-facing tools, and Monad-native consumer experiments. |
-| **Nous Research** | Agent tooling experiments around Hermes, natural-language blockchain intelligence, and developer UX. |
-| **ARCANA** | Private testnet build for autonomous DeFi agents: strategy selection, USDC vault flows, perpetual positions, oracle updates, and onchain decision logs. |
-| **Ritual** | Turkey-focused localization, technical storytelling, and community material for AI x crypto infrastructure. |
+| **Monad** | **GIZDUSUM NODE**, validator identity, testnet participation, and Monad-native consumer experiments. |
+| **Nous Research** | **Hermes tooling**, natural-language blockchain intelligence, and developer UX experiments. |
+| **Arc** | **ARCANA**, an autonomous agent build around strategy selection, risk flows, oracle updates, and onchain decision logs. |
+| **Ritual** | **PLEDGED777** plus Turkey-focused localization, technical storytelling, and community material for AI x crypto infrastructure. |
+
+## Build Matrix
+
+| Ecosystem | Project / Contribution |
+| --- | --- |
+| **Monad** | [**1000NADS**](https://1000nads.xyz/) — 1,000 unique onchain tiles on Monad with a mini-game gate and permanent wallet-owned slots. |
+| **Monad** | [**GIZDUSUM NODE**](https://gizdusum.xyz) — validator landing page and technical identity for Monad testnet participation. |
+| **Ritual** | [**PLEDGED777**](http://pledged777.xyz/) — gasless first-come registry concept for Ritual's AI compute network. |
+| **Arc** | [**ARCANA**](https://frontend-six-coral-16.vercel.app/) — Hermes-powered autonomous agent interface for contextual signals, strategy flow, and onchain execution research. |
+| **Etherlink** | [**LASTKEY**](https://lastkey.xyz/) — access-continuity protocol concept on the Tezos EVM rollup. |
+| **OpenWallet Foundation** | [**OPENCOREGOAL**](https://opencoregoal.vercel.app/) — automated wallet gain-routing into isolated goal vaults with policy controls. |
+| **Nous Research / Solana** | [**HERMES SOLANA**](https://github.com/NousResearch/hermes-agent/pull/212) — merged Solana blockchain oracle skill for Hermes Agent with wallet, token, NFT, and whale-query procedures. |
 
 ## Selected Builds
 
@@ -28,9 +40,9 @@ I work across early networks where product, protocol, and community are still fo
 - [Hermes FUD Analyzer](https://github.com/gizdusum/hermes-fud-analyzer) — small Python tool for analyzing crypto project sentiment and FUD patterns.
 - [nous-terminal](https://github.com/gizdusum/nous-terminal) — Bloomberg-style terminal UI experiment with Nous Research branding.
 
-### ARCANA
+### Arc / ARCANA
 
-ARCANA is a private testnet project exploring autonomous DeFi execution. It combines an ERC-4626 style vault, strategy profiles, oracle updates, perpetual futures simulation, and an agent interface designed around explainable decisions.
+ARCANA is an Arc ecosystem project exploring autonomous agent execution. It combines strategy profiles, contextual signals, oracle updates, risk-aware flows, and an agent interface designed around explainable decisions.
 
 The goal is to make autonomous onchain agents feel observable: users should be able to see what the agent did, why it did it, and how risk is being handled.
 

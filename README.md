@@ -5,7 +5,7 @@
 <h1 align="center">Gizdusum | 기즈두숨</h1>
 
 <p align="center">
-  <b>Founder of <a href="https://numen.cash">Numen Cash</a></b> · makin' moves onchain
+  <b>Numen Team</b> · <a href="https://numen.cash">Numen Cash</a>
 </p>
 
 <p align="center">

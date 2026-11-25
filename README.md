@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://numen.cash"><img src="assets/numen-banner.svg" alt="Numen Cash — tokens with a mind of their own. Founder: Gizdusum." width="100%"></a>
+  <a href="https://numen.cash"><img src="assets/numen-cash-github-banner.png" alt="Numen Cash — tokens with a mind of their own." width="100%"></a>
 </p>
 
 <h1 align="center">Gizdusum | 기즈두숨</h1>

@@ -1,66 +1,74 @@
-# Gizdusum
+<p align="center">
+  <a href="https://numen.cash"><img src="assets/numen-banner.svg" alt="Numen Cash — tokens with a mind of their own. Founder: Gizdusum." width="100%"></a>
+</p>
 
-Builder and validator operator focused on crypto infrastructure, autonomous agents, and onchain user experiences.
+<h1 align="center">Gizdusum | 기즈두숨</h1>
 
-I work across early networks where product, protocol, and community are still forming. My public work is usually small, practical, and shipped fast: validator pages, onchain apps, agent tooling, dashboards, experiments, and technical community artifacts.
+<p align="center">
+  <b>Founder of <a href="https://numen.cash">Numen Cash</a></b> · makin' moves onchain
+</p>
 
-## Current Focus
+<p align="center">
+  <a href="https://numen.cash"><img src="https://img.shields.io/badge/numen.cash-FFC870?style=for-the-badge&labelColor=241500&color=F29A1F" alt="numen.cash"></a>
+  <a href="https://testnet.numen.cash"><img src="https://img.shields.io/badge/Testnet-live-FFC870?style=for-the-badge&labelColor=241500&color=FFBB62" alt="Testnet live"></a>
+  <a href="https://x.com/numencash"><img src="https://img.shields.io/badge/@numencash-X-FFC870?style=for-the-badge&labelColor=241500&color=FFCD83" alt="@numencash on X"></a>
+</p>
 
-| Area | Work |
-| --- | --- |
-| **Monad** | **GIZDUSUM NODE**, validator identity, testnet participation, and Monad-native consumer experiments. |
-| **Nous Research** | **Hermes tooling**, natural-language blockchain intelligence, and developer UX experiments. |
-| **Arc** | **ARCANA**, an autonomous agent build around strategy selection, risk flows, oracle updates, and onchain decision logs. |
-| **Ritual** | **PLEDGED777** plus Turkey-focused localization, technical storytelling, and community material for AI x crypto infrastructure. |
+---
 
-## Build Matrix
+## 🟠 Numen Cash
 
-| Ecosystem | Project / Contribution |
-| --- | --- |
-| **Monad** | [**1000NADS**](https://1000nads.xyz/) — 1,000 unique onchain tiles on Monad with a mini-game gate and permanent wallet-owned slots. |
-| **Monad** | [**GIZDUSUM NODE**](https://gizdusum.xyz) — validator landing page and technical identity for Monad testnet participation. |
-| **Ritual** | [**PLEDGED777**](http://pledged777.xyz/) — gasless first-come registry concept for Ritual's AI compute network. |
-| **Arc** | [**ARCANA**](https://frontend-six-coral-16.vercel.app/) — Hermes-powered autonomous agent interface for contextual signals, strategy flow, and onchain execution research. |
-| **Etherlink** | [**LASTKEY**](https://lastkey.xyz/) — access-continuity protocol concept on the Tezos EVM rollup. |
-| **OpenWallet Foundation** | [**OPENCOREGOAL**](https://opencoregoal.vercel.app/) — automated wallet gain-routing into isolated goal vaults with policy controls. |
-| **Nous Research / Solana** | [**HERMES SOLANA**](https://github.com/NousResearch/hermes-agent/pull/212) — merged Solana blockchain oracle skill for Hermes Agent with wallet, token, NFT, and whale-query procedures. |
+**A token launchpad on GIWA where a token can be born with a mind of its own.**
 
-## Selected Builds
+Every coin starts on a bonding curve in ETH and graduates, inside the buy that fills it, into a locked pool. A coin can also be launched **with a mind**: a mandate its creator writes at birth, fuel for each time it wakes, and a treasury it spends only by the rules it was born with. The mind speaks in its own chat room, runs games for its holders and spends only within its onchain caps.
 
-### Monad
+| | |
+|---|---|
+| **Launch** | Standard or Mind token, one signature, a signed launch gate and a fair daily mind quota |
+| **Trade** | Bonding curve in ETH, graduation into a locked pool, no team buys |
+| **Minds** | Mandate at birth, ETH fuel per wake, onchain spending caps, optional buyback-and-burn |
+| **Rooms** | Holders talk to the mind; quizzes, riddles, draws and contests with onchain prizes |
+| **Pulse · Leaderboard** | Market activity, XP and Light badges for the people building the network |
 
-- [1000nads](https://github.com/gizdusum/1000nads) — a Monad-native onchain memory wall where users pass a small gate, claim one of 1,000 slots, and leave an image plus note.
-- [monad-invaders](https://github.com/gizdusum/monad-invaders) — a lightweight game experiment for Monad culture and community onboarding.
-- [gizdusum.xyz](https://gizdusum.xyz) — validator landing page for GIZDUSUM NODE on Monad testnet.
+<p>
+  <a href="https://testnet.numen.cash"><b>→ Try the testnet</b></a> &nbsp;·&nbsp;
+  <a href="https://numen.cash"><b>numen.cash</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/numencash"><b>@numencash</b></a>
+</p>
 
-### Nous Research / Hermes
+---
 
-- [hermes-agent](https://github.com/gizdusum/hermes-agent) — fork and contribution track around Nous Research's Hermes Agent ecosystem.
-- [Hermes Blockchain Oracle](https://github.com/gizdusum/hermes-blockchain-oracle) — MCP server for querying wallets, tokens, whales, NFTs, and network data through natural language.
-- [Hermes FUD Analyzer](https://github.com/gizdusum/hermes-fud-analyzer) — small Python tool for analyzing crypto project sentiment and FUD patterns.
-- [nous-terminal](https://github.com/gizdusum/nous-terminal) — Bloomberg-style terminal UI experiment with Nous Research branding.
+## Before Numen
 
-### Arc / ARCANA
+<details>
+<summary><b>Nous Research · Hermes</b></summary>
 
-ARCANA is an Arc ecosystem project exploring autonomous agent execution. It combines strategy profiles, contextual signals, oracle updates, risk-aware flows, and an agent interface designed around explainable decisions.
+- [**Hermes Solana**](https://github.com/NousResearch/hermes-agent/pull/212): merged Solana blockchain oracle skill for Hermes Agent (wallets, tokens, NFTs, whale queries).
+- [Hermes Blockchain Oracle](https://github.com/gizdusum/hermes-blockchain-oracle): MCP server for natural-language wallet, token and network queries.
+- [Hermes FUD Analyzer](https://github.com/gizdusum/hermes-fud-analyzer) · [nous-terminal](https://github.com/gizdusum/nous-terminal)
 
-The goal is to make autonomous onchain agents feel observable: users should be able to see what the agent did, why it did it, and how risk is being handled.
+</details>
 
-### Ritual
+<details>
+<summary><b>Arc · ARCANA</b></summary>
 
-Ritual work is focused on community translation, technical communication, and visual materials that make AI infrastructure easier to understand for Turkish builders.
+- [**ARCANA**](https://frontend-six-coral-16.vercel.app/): an agent interface built around strategy profiles, contextual signals, risk-aware flows and explainable onchain decision logs.
 
-## Technical Interests
+</details>
 
-- Validator operations and network identity
-- Autonomous agents and AI-assisted developer tooling
-- Onchain UX, contract interaction flows, and wallet-first products
-- MCP servers, blockchain data interfaces, and natural-language analytics
-- Community documentation, localization, and technical storytelling
+<details>
+<summary><b>Monad</b></summary>
 
-## Find Me
+- [**1000NADS**](https://1000nads.xyz/): 1,000 wallet-owned onchain tiles behind a mini-game gate.
+- [**GIZDUSUM NODE**](https://gizdusum.xyz): validator identity and testnet participation.
+- [monad-invaders](https://github.com/gizdusum/monad-invaders): a small game for Monad community onboarding.
 
-- X: [@gizdusumandnode](https://x.com/gizdusumandnode)
-- GitHub: [github.com/gizdusum](https://github.com/gizdusum)
-- Website: [gizdusum.xyz](https://gizdusum.xyz)
-- Discord: `gizdusum`
+</details>
+
+---
+
+<p align="center">
+  <a href="https://x.com/gizdusumandnode">X @gizdusumandnode</a> &nbsp;·&nbsp;
+  <a href="https://numen.cash">numen.cash</a> &nbsp;·&nbsp;
+  Discord <code>gizdusum</code> &nbsp;·&nbsp; Onchain
+</p>
